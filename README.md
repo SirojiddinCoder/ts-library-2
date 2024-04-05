@@ -1,0 +1,1 @@
+Array berilgan bo'lsa shu arrayni numberga tekshiradi agar number bolsa uning qiymatlarini 2 ga ko'paytirib yangi array qaytaradigan kutubxona.
